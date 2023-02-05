@@ -1,0 +1,19 @@
+
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(±¦º
+J
+java:S1066D"/Merge this if statement with the enclosing one.(ä²œ¼øÿÿÿÿ
+†
+java:S1319>"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(é¬ê
+t
+java:S1104"YMake DATABASE_NAME a static final constant or non-public and provide accessors if needed.(¶ˆÍÑøÿÿÿÿ
+o
+java:S1104"YMake COMMENT_TABLE a static final constant or non-public and provide accessors if needed.(Åñá‰
+N
+java:S1444"3Make this "public static DATABASE_NAME" field final(¶ˆÍÑøÿÿÿÿ
+I
+java:S1444"3Make this "public static COMMENT_TABLE" field final(Åñá‰
+s
+java:S3008"XRename this field "DATABASE_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ˆÍÑøÿÿÿÿ
+n
+java:S3008"XRename this field "COMMENT_TABLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åñá‰

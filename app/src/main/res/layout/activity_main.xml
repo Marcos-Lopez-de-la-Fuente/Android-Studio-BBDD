@@ -101,9 +101,9 @@
 
 
     <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/buttonDelete"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/buttonDelete"
         android:text="Delete" />
 
 

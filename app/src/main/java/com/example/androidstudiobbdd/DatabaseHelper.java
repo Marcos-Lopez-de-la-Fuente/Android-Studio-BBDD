@@ -52,7 +52,7 @@ public class DatabaseHelper extends SQLiteOpenHelper {
             SQLiteDatabase db = this.getWritableDatabase();
             db.execSQL("delete from " + COMMENT_TABLE + " where title=?", args);
             db.close();
-            
+
         } catch (Exception e) {
             e.printStackTrace();
         }

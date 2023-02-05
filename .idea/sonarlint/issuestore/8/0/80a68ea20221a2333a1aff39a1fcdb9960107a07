@@ -1,0 +1,19 @@
+
+o
+java:S2293s"YReplace the type specification in this constructor call with the diamond operator ("<>").(ê õ±
+o
+java:S2293x"YReplace the type specification in this constructor call with the diamond operator ("<>").(†Àç‰
+v
+java:S1450!"[Remove the "buttonCreate" field and declare it as a local variable in the relevant methods.(ä¨¤ºùÿÿÿÿ
+q
+java:S1450#"[Remove the "buttonDelete" field and declare it as a local variable in the relevant methods.(¢ßˆ…
+o
+java:S1450""YRemove the "buttonShow" field and declare it as a local variable in the relevant methods.(€‹½
+
+java:S1450"fRemove the "inputCommentDescription" field and declare it as a local variable in the relevant methods.(Éİ×èûÿÿÿÿ
+{
+java:S1450"`Remove the "inputCommentTitle" field and declare it as a local variable in the relevant methods.(ßğ«’üÿÿÿÿ
+‚
+java:S1450"gRemove the "outputCommentDescription" field and declare it as a local variable in the relevant methods.(Â¦·²úÿÿÿÿ
+w
+java:S1450"aRemove the "outputCommentTitle" field and declare it as a local variable in the relevant methods.(´¦¹É

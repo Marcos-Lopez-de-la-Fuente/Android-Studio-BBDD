@@ -55,7 +55,6 @@ public class MainActivity extends AppCompatActivity {
         this.refreshComments();
 
 
-
         this.buttonCreate.setOnClickListener(view -> {
             String title = String.valueOf(this.inputCommentTitle.getText());
             String description = String.valueOf(this.inputCommentDescription.getText());
